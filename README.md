@@ -1,7 +1,7 @@
-# opsi-shop-checklist
+# Checklist for Operation Siren supply shops
 [Checklist](https://docs.google.com/spreadsheets/d/12GZ6sret3Ucek3OubkqaUQXI_06s0hVLa6hSABm-510/edit?usp=sharing) on Google Sheets.
 
-Credit to the [Azur Lane English Wiki](https://azurlane.koumakan.jp/wiki/Azur_Lane_Wiki) for the information and images.
+[Azur Lane English Wiki](https://azurlane.koumakan.jp/wiki/Azur_Lane_Wiki) for the information and images.
 
 (Accurate as of 21st December 2022)
 
